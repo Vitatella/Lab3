@@ -21,3 +21,26 @@ C:\Users\Vitat\source\repos\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\
 C:\Users\Vitat\source\repos\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\ref\UltraSuperMegaTimer 2 pro.dll
 C:\Users\Vitat\source\repos\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\AddTimer.g.cs
 C:\Users\Vitat\source\repos\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\AddTimer.baml
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\bin\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.exe
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\bin\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.deps.json
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\bin\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.runtimeconfig.json
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\bin\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.dll
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\bin\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.pdb
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.csproj.AssemblyReference.cache
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\AddTimer.g.cs
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro_MarkupCompile.cache
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro_MarkupCompile.lref
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\AddTimer.baml
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.g.resources
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.AssemblyInfoInputs.cache
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.AssemblyInfo.cs
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.csproj.CoreCompileInputs.cache
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.dll
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\refint\UltraSuperMegaTimer 2 pro.dll
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.pdb
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.genruntimeconfig.cache
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\ref\UltraSuperMegaTimer 2 pro.dll

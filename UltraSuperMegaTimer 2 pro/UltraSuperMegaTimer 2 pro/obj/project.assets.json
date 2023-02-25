@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vitat\\source\\repos\\UltraSuperMegaTimer 2 pro\\UltraSuperMegaTimer 2 pro\\UltraSuperMegaTimer 2 pro.csproj",
+      "projectUniqueName": "C:\\Users\\Vitat\\OneDrive\\Рабочий стол\\Lab3\\UltraSuperMegaTimer 2 pro\\UltraSuperMegaTimer 2 pro\\UltraSuperMegaTimer 2 pro.csproj",
       "projectName": "UltraSuperMegaTimer 2 pro",
-      "projectPath": "C:\\Users\\Vitat\\source\\repos\\UltraSuperMegaTimer 2 pro\\UltraSuperMegaTimer 2 pro\\UltraSuperMegaTimer 2 pro.csproj",
+      "projectPath": "C:\\Users\\Vitat\\OneDrive\\Рабочий стол\\Lab3\\UltraSuperMegaTimer 2 pro\\UltraSuperMegaTimer 2 pro\\UltraSuperMegaTimer 2 pro.csproj",
       "packagesPath": "C:\\Users\\Vitat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vitat\\source\\repos\\UltraSuperMegaTimer 2 pro\\UltraSuperMegaTimer 2 pro\\obj\\",
+      "outputPath": "C:\\Users\\Vitat\\OneDrive\\Рабочий стол\\Lab3\\UltraSuperMegaTimer 2 pro\\UltraSuperMegaTimer 2 pro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vitat\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -115,7 +115,7 @@ namespace UltraSuperMegaTimer_2_pro
 
         private void Delete_Click(object sender, RoutedEventArgs e)
         {
-            Timers.Items.Remove(_selectedTimerName); //Not worrking
+            Timers.Items.Remove(_selectedTimerName); //Not working
             _timers.Remove(_selectedTimerName);
             _selectedTimerName = null;
             Name.Content = string.Empty;
