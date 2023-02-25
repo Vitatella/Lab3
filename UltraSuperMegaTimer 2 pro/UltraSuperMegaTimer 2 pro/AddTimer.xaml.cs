@@ -1,16 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
 
 namespace UltraSuperMegaTimer_2_pro
 {
@@ -52,25 +42,19 @@ namespace UltraSuperMegaTimer_2_pro
         private void Hours_LostFocus(object sender, RoutedEventArgs e)
         {
             if ((int.TryParse(Hours.Text, out int hours) == false) || (hours < 0 || hours >= 24))
-            {
                 Hours.Text = 0.ToString();
-            }
         }
 
         private void Minutes_LostFocus(object sender, RoutedEventArgs e)
         {
             if ((int.TryParse(Minutes.Text, out int minutes) == false) || (minutes < 0 || minutes >= 60))
-            {
                 Minutes.Text = 0.ToString();
-            }
         }
 
         private void Seconds_LostFocus(object sender, RoutedEventArgs e)
         {
             if ((int.TryParse(Seconds.Text, out int seconds) == false) || (seconds < 0 || seconds >= 60))
-            {
                 Seconds.Text = 0.ToString();
-            }
         }
     }
 }

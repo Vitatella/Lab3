@@ -1,19 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Reflection.PortableExecutable;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace UltraSuperMegaTimer_2_pro
 {
@@ -26,10 +14,7 @@ namespace UltraSuperMegaTimer_2_pro
         public MainWindow()
         {
             InitializeComponent();
-
             UpdateCurrentTime();
-
-
 
             _timer = new System.Windows.Threading.DispatcherTimer();
             _timer.Tick += new EventHandler(DispatcherTimer_Tick);
