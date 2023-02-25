@@ -88,6 +88,7 @@ namespace UltraSuperMegaTimer_2_pro
                 sender.ToString().IndexOf("Header:"),
                 sender.ToString().LastIndexOf(" ") - sender.ToString().IndexOf("Header:"));
             header = header.Replace("Header:", string.Empty);
+
             OpenTimer(header);
         }
 
