@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>UltraSuperMegaTimer_2_pro</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="1.jpg" />
+    <None Remove="2.jpg" />
+    <None Remove="big-floppa-meme.png" />
+    <None Remove="Big_Floppa_and_Justin_2_%28cropped%29.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="1.jpg" />
+    <Resource Include="2.jpg" />
+    <Resource Include="big-floppa-meme.png" />
+    <Resource Include="Big_Floppa_and_Justin_2_(cropped).jpg" />
+  </ItemGroup>
+
+</Project>

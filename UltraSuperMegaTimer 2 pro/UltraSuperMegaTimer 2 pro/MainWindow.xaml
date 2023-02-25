@@ -1,0 +1,30 @@
+﻿<Window x:Class="UltraSuperMegaTimer_2_pro.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UltraSuperMegaTimer_2_pro"
+        mc:Ignorable="d"
+        Title="Timer" Height="350" Width="250">
+    <Grid>
+        <Menu HorizontalAlignment="Left" Height="21" Margin="10,10,0,0" VerticalAlignment="Top" Width="90">
+            <MenuItem Header="File"/>
+            <MenuItem x:Name="Timers" Header="Timers">
+                <MenuItem Header="Add timer" Click="AddTimer_Click"/>
+            </MenuItem>
+        </Menu>
+        <Image x:Name="PopCat" HorizontalAlignment="Left" Height="39" Margin="114,10,0,0" VerticalAlignment="Top" Width="40" Source="/2.jpg"/>
+        <Label x:Name="Time" HorizontalAlignment="Left" Height="67" Margin="17,167,0,0" VerticalAlignment="Top" Width="202" FontSize="36"/>
+        <ComboBox x:Name="TimeFormat" HorizontalAlignment="Left" Height="23" Margin="17,114,0,0" VerticalAlignment="Top" Width="202" SelectionChanged="TimeFormat_SelectionChanged" SelectedIndex="1">
+            <ComboBoxItem Content="Дни/часы/минуты/секунды"/>
+            <ComboBoxItem Content="Часы/минуты/секунды"/>
+            <ComboBoxItem Content="Минуты/секунды"/>
+            <ComboBoxItem Content="Секунды"/>
+        </ComboBox>
+        <Label Content="Name:" HorizontalAlignment="Left" Height="37" Margin="10,53,0,0" VerticalAlignment="Top" Width="50"/>
+        <Label x:Name="Name" Content="" HorizontalAlignment="Left" Height="29" Margin="55,54,0,0" VerticalAlignment="Top" Width="68"/>
+        <Button Content="Edit" HorizontalAlignment="Left" Height="30" Margin="10,251,0,0" VerticalAlignment="Top" Width="99" Click="Edit_Click"/>
+        <Button Content="Delete" HorizontalAlignment="Left" Height="30" Margin="120,251,0,0" VerticalAlignment="Top" Width="99" Click="Delete_Click"/>
+
+    </Grid>
+</Window>
