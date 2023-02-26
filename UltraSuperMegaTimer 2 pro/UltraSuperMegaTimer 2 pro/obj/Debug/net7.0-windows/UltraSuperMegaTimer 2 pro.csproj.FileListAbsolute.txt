@@ -44,3 +44,6 @@ C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\U
 C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.pdb
 C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.genruntimeconfig.cache
 C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\ref\UltraSuperMegaTimer 2 pro.dll
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\Interop.DXTRANSLib.dll
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\Interop.DXTMSFTLib.dll
+C:\Users\Vitat\OneDrive\Рабочий стол\Lab3\UltraSuperMegaTimer 2 pro\UltraSuperMegaTimer 2 pro\obj\Debug\net7.0-windows\UltraSuperMegaTimer 2 pro.csproj.ResolveComReference.cache

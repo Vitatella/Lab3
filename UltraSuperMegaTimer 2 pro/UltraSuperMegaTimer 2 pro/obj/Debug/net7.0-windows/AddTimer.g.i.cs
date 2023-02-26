@@ -93,7 +93,7 @@ namespace UltraSuperMegaTimer_2_pro {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/UltraSuperMegaTimer 2 pro;V1.0.0.0;component/addtimer.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/UltraSuperMegaTimer 2 pro;component/addtimer.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AddTimer.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

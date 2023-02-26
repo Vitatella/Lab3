@@ -8,7 +8,10 @@
         Title="Timer" Height="350" Width="250">
     <Grid>
         <Menu HorizontalAlignment="Left" Height="21" Margin="10,10,0,0" VerticalAlignment="Top" Width="90">
-            <MenuItem Header="File"/>
+            <MenuItem Header="File">
+                <MenuItem Header="Open" Click="OpenFile_Сlick"/>
+                <MenuItem Header="Save" Click="SaveFile_Click"/>
+            </MenuItem>
             <MenuItem x:Name="Timers" Header="Timers">
                 <MenuItem Header="Add timer" Click="AddTimer_Click"/>
             </MenuItem>

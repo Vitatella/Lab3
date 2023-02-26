@@ -1,7 +1,10 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Windows;
 using System.Windows.Controls;
+using System.Xml.Linq;
 
 namespace UltraSuperMegaTimer_2_pro
 {
@@ -112,6 +115,52 @@ namespace UltraSuperMegaTimer_2_pro
         {
             AddTimer addWindow = new AddTimer(this, _selectedTimerName, _timers[_selectedTimerName]);
             addWindow.Show();
+        }
+
+        private void SaveFile_Click(object sender, RoutedEventArgs e)
+        {
+            SaveFileDialog dialog = new SaveFileDialog();
+
+            dialog.FileName = "Document";
+            dialog.DefaultExt = ".txt";
+            dialog.Filter = "Text documents (.txt)|*.txt";
+            dialog.ShowDialog();
+            SaveFile(dialog);
+        }
+
+        private void OpenFile_Сlick(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog dialog = new OpenFileDialog();
+
+            dialog.FileName = "Document";
+            dialog.DefaultExt = ".txt";
+            dialog.Filter = "Text documents (.txt)|*.txt";
+            dialog.ShowDialog();
+            ReadFile(dialog);
+        }
+
+        private void ReadFile(OpenFileDialog dialog)
+        {
+            string line;
+
+            StreamReader file = new StreamReader(dialog.FileName);
+
+            while ((line = file.ReadLine()) != null)
+            {
+                string name = line.Substring(0, line.IndexOf(" "));
+                DateTime date = DateTime.Parse(line.Substring(line.IndexOf(" ") + 1));
+                AddNewTimer(name, date);
+            }
+
+            file.Close();
+        }
+
+        private void SaveFile(SaveFileDialog dialog)
+        {
+            using (StreamWriter outputFile = new StreamWriter(dialog.FileName))
+            {
+                foreach (string name in _timers.Keys) outputFile.WriteLine($"{name} {_timers[name]}");
+            }
         }
     }
 }
